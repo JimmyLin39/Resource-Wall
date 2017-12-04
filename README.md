@@ -1,5 +1,9 @@
 # Resource Wall
 
+Pinterest for learners.
+
+Allow learners to save learning resources like tutorials, blogs and videos in a central place that is publicly available to any user.
+
 ## Features:
 * users can save an external URL along with a title and description
 * users can search for already-saved resources created by any user
